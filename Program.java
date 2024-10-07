@@ -1,4 +1,6 @@
 import java.util.Scanner;
+
+//Class name should match file name (pretent the file is Program8.java)
 public class program8{
 
     
